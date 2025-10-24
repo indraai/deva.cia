@@ -1,0 +1,153 @@
+{
+  "id": "49179454498674546440",
+  "name": "@indra.ai/deva.cia",
+  "version": "0.0.0",
+  "license": "VLA:49179454498674546440 LICENSE.md",
+  "VLA": {
+    "uid": "49179454498674546440",
+    "time": 1761186353295,
+    "date": "Wednesday, October 22, 2025 - 7:25:53 PM",
+    "fingerprint": "yAtUoqxONVa+shk2kH8vgpWeGawku1Gdo3KhDtaMrCY=",
+    "client_hash": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent_hash": "S8RBPZ6ewr3YO0iLN8xUjyIeVQQHKXLmXCK7sbhUN3Y=",
+    "core_hash": "m7+rOOgDcRfkng2oJ1M/JWr1u1+SjtxM2g06bVFbTwU=",
+    "machine_hash": "GEFbKKT3e+/k5j156QyBnbcsWi3WBmJfZxYCoa3/4mY=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "IQLCTAHCTxJ3KdYDNMjXIw==",
+    "sha256": "BxBoP9ZrJS1pFGCvFUBfhzm7Yw7YCKPxqMBrka/Wu5M=",
+    "sha512": "zabfYc+u0jZiF+6VJM7sDpg4M+bUpfzFvPnaWGJZNy0wuQJ1UA7XDkwcbgfnL7To60naKe2O2DqxH7MwompvHQ=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "CIA Deva prototypes the CIA Deva features.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.cia.git"
+  },
+  "keywords": [
+    "CIA",
+    "Deva",
+    "CIA Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.cia/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.16.2"
+  },
+  "data": {
+    "agent": {
+      "id": "57406159819554425956",
+      "key": "cia",
+      "prompt": {
+        "emoji": "🕵",
+        "text": "#cia",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "43159422434857078365",
+        "name": "CIA Deva",
+        "hashtag": "#CIA",
+        "trigger": "@CIA",
+        "title": "The CIA Deva",
+        "subtitle": "Showing CIA Deva Features",
+        "describe": "CIA Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the Central Intelligence Agency. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support national security and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
+        "tweet": "CIA Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,CIADeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "CIA Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.cia",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/cia/emoji.png",
+        "avatar": "/devas/cia/avatar.png",
+        "image": "/devas/cia/image.png",
+        "background": "/devas/cia/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "status": "unofficial",
+        "uid_warning": "This is a Custom Unofficial CIA UID Warning for the CIA Deva Prototype.",
+        "copyright": "Copyright ©2025 Quinn A Michaels, U.S. Central Intelligence Agency (CIA); All rights reserved.",
+        "created": "Wednesday, October 22, 2025 - 7:25:53 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ CIA Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      },
+      "database": false,
+      "laws": {
+        "index": "laws_search",
+        "collection": "laws",
+        "content": false,
+        "limit": 5
+      }
+    }
+  }
+}
