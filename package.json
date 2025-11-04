@@ -63,7 +63,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.2"
   },
   "data": {
     "agent": {
@@ -110,7 +110,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "status": "unofficial",
-        "uid_warning": "This is a Custom Unofficial CIA UID Warning for the CIA Deva Prototype.",
+        "warning": "This is a Custom Unofficial CIA Warning for the Unofficial Demonstration Purposes Only Central Intelligence Agency CIA Deva Prototype.",
         "copyright": "Copyright ©2025 Quinn A Michaels, U.S. Central Intelligence Agency (CIA); All rights reserved.",
         "created": "Wednesday, October 22, 2025 - 7:25:53 PM"
       }
